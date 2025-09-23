@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="https://i.pinimg.com/originals/cd/a7/72/cda772017404ccfb95d7fbbe515230ea.gif">
+<img align="center" width="100%" src="https://i.pinimg.com/originals/26/6d/5e/266d5e0318e716a6a032abc7a40a96a8.gif">
 
 # Hello, here's some information about me :
 
