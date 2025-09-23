@@ -7,7 +7,7 @@
 - **Currently learning**: IoT, Node.js, and WhatsApp API.
 - **Experience**: -
 
-linkedin : https://www.linkedin.com/in/mohammad-din-nur-ikhsani-175655285
+Linkedin : https://www.linkedin.com/in/mohammad-din-nur-ikhsani-175655285 ||
 Letterboxd : https://boxd.it/bnLxR
 
 -----
