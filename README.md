@@ -1,16 +1,23 @@
-## Hi there 👋
+<img align="center" width="100%" src="https://i.pinimg.com/originals/26/6d/5e/266d5e0318e716a6a032abc7a40a96a8.gif">
 
-<!--
-**sani1153/sani1153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, here's some information about me :
 
-Here are some ideas to get you started:
+- **Name**: Sani
+- **Role**: Full-Stack Engineer
+- **Currently learning**: IoT, Node.js, and WhatsApp API.
+- **Experience**: -
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+linkedin : https://www.linkedin.com/in/mohammad-din-nur-ikhsani-175655285
+Letterboxd : https://boxd.it/bnLxR
+
+-----
+> [!NOTE]
+> - Let's talk about movies 😁 go to my Letterboxd!!!
+
+
+
+
+
+
+
+
