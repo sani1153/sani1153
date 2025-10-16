@@ -5,7 +5,6 @@
 - **Name** : Sani
 - **Role** : Full-Stack Engineer
 - **Currently learning** : IoT, Node.js, and WhatsApp API.
-- **Experience** : -
 
 👨‍💻Linkedin : https://www.linkedin.com/in/mohammad-din-nur-ikhsani-175655285 ||
 🎬Letterboxd: https://boxd.it/bnLxR
