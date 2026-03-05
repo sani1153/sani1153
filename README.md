@@ -6,12 +6,11 @@
 - **Role** : Full-Stack Engineer
 - **Currently learning** : IoT, Node.js, and WhatsApp API.
 
-👨‍💻Linkedin : https://www.linkedin.com/in/mohammad-din-nur-ikhsani-175655285
-### || 🎬Letterboxd: https://boxd.it/bnLxR
+👨‍💻Linkedin : https://www.linkedin.com/in/mohammad-din-nur-ikhsani-175655285 || 🎬Letterboxd: https://boxd.it/bnLxR
 
-### -----
-### > [!NOTE]
-### > - Let's talk about movies 🎬😁 check on my Letterboxd!!!
+-----
+> [!NOTE]
+> - Let's talk about movies 🎬😁 check on my Letterboxd!!!
 
 
 
